@@ -18,9 +18,9 @@ Since that first year, we have followed TED and been an auxillary event that pro
 
 ### BIL and TED relationship
 
-Our relationship with TED has a delicate balance.  We are...
+Our relationship with TED has a delicate balance.  We run a very similar format, our name is a play on theirs, and one of our events happens very very close to the main TED event.  This has caused a split reaction from our brothers across the street, which for us is exactly what we want.  The curious always make their way over to our event from TED...
 
-## Sections
+## Further Information
 
 * [BIL Support Foundation](/BIL Support Foundation/)
 * [Hosting a BIL](/Hosting a BIL/)

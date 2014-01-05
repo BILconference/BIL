@@ -16,21 +16,15 @@ info about venue selection
 
 Honestly.  You shouldn't charge anything unless you absolutely have to charge attendance to cover costs you cannot find in sponsorship or grants.  BIL was started with the mindset that quality talks and education shouldn't have to come at a cost, but sometimes we have to cover our costs in various ways.
 
-BIL attempts to be a donation run event, with suggested donations being taken at the door that you calculate based on the cost of your event.  At our flagship event we even hold an auction at the closing of the talks.  
+BIL attempts to be a donation run event, with suggested donations being taken at the door, or online, that you calculate based on the cost of your event.  At our flagship event we even hold an auction at the closing of the talks.  
 
-The goal here is not to make a profit, but to cover your costs
-
-### Donation Based
-
-
-
+The goal here is not to make a profit, but to cover your costs.
 
 ### Giving Back
 
+Should you end up with a surplus of money at the end of your BIL, its good to put the remainder of the money back in your events account with the Support Foundation in order to have that money available to you for your next event.  There is nothing worse than starting from scratch financially each year.  If you'd really like to give back, passing it forward.
 
+### Pass it forward
 
-## Sponsorship
+Passing it forward is your event helping another BIL event.  Consider writing a check to another event that is coming up in the near future.  Support your fellow BIL events!
 
-info about sponsorship
-
-## Handling Mone
