@@ -1,6 +1,8 @@
 # BIL Support Foundation
 
-## 501.c3
+[ This information needs to be filled in more completely by a member of the Support Group ]
+
+## 501(c)(3)
 
 The BIL Support Foundation is a registered 501c3 entity with the sole purpose of supporting the financial needs of BIL events happening around the world.  Paperwork for the foundation was filed in 2013
 

@@ -1,6 +1,5 @@
 # Hosting a BIL
 
-
 So you want to host a BIL event in your city?  Anyone is free to open and operate a BIL, and we encourage the collaboration of a team of willing volunteers to help steer your event to success.  This document will serve as a basis of things that have worked for us in the past, and does not necessitate anything except where noted specifically.
 
 ## Venue Selection
