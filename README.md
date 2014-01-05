@@ -8,7 +8,8 @@ BIL emerged from a community of people who aspire to change the world for the be
 
 ## What does BIL stand for?
 
-BIL doesn’t necessarily stand for anything.
+BIL doesn’t necessarily stand for anything. BIL was born out of a play off of TED in an Excellent Adventure sort of way...
+
 What’s your definition?
 
 B______. I______. L________
