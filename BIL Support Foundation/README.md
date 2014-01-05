@@ -19,4 +19,6 @@ It is important to note that if you are planning on using the foundation, you ne
 
 ## Money flow
 
-Money that flows through the foundation will be returned to the BIL event after the checks clear.  Turnaround time can be from 3-7 days for the checks to clear, and then added time to send a check back to your event.  Digital transfers can speed up the pro
+Money that flows through the foundation will be returned to the BIL event after the checks clear.  Turnaround time can be from 3-7 days for the checks to clear, and then added time to send a check back to your event.  
+
+Digital transfers can speed up the process of recieving money back to help pay for your event costs.  Options here include: Paypal, WePay, and possibly other sources, but do know that all fees for choosen services will be taken out and paid by the reciever.

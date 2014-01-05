@@ -8,6 +8,8 @@ BIL emerged from a community of people who aspire to change the world for the be
 
 ## History
 
+>Do you know where there are any personages of historical significance around here? - Bill S. Preston, Esq
+
 In 2008 a group of friends got the crazy idea to crash a TED event in Monterrey, California.  It was important to this group to be able to have discussions with the affluent members and change catalysts involved with the TED event.  We realized that a better way for making an impact while still getting the interaction we desired from the members of TED was to throw our own event. 
 
 In two weeks time we had all bought plane tickets, booked a small venue, invited speakers from TED, gotten on NPR, and in the LA Times as well as other publications.  BIL was born, and it provided a free, interactive, and entertaining experience for all those involved.  And when we say all involved, we really mean every single person at the event.  Every person took part in helping set up, run, and break down the event.  People came from all over the west coast region to see just what it was that we were putting on.  It was magic.
