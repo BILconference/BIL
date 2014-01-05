@@ -6,6 +6,14 @@ Most of you have heard of TED or watched the talks online, but do you know about
 
 BIL emerged from a community of people who aspire to change the world for the better- everyone is on equal standing and we meet to share ideas, problems that need solving, and discoveries we are excited about with a quite diverse national and international crowd. Our attendees are our speakers and our speakers are our attendees and in true unconference style, attendees are responsible for shaping the conference itself through their participation.
 
+## WHAT DOES BIL STAND FOR?
+
+BIL doesn’t necessarily stand for anything.
+What’s your definition?
+
+B______. I______. L________
+
+
 ## History
 
 >Do you know where there are any personages of historical significance around here? - Bill S. Preston, Esq
@@ -20,7 +28,10 @@ Since that first year, we have followed TED and been an auxillary event that pro
 
 Our relationship with TED has a delicate balance.  We run a very similar format, our name is a play on theirs, and one of our events happens very very close to the main TED event.  This has caused a split reaction from our brothers across the street, which for us is exactly what we want.  The curious always make their way over to our event from TED...
 
+
+
 ## Further Information
 
-* [BIL Support Foundation](/BIL Support Foundation/)
 * [Hosting a BIL](/Hosting a BIL/)
+* [BIL Support Foundation](/BIL Support Foundation/)
+
