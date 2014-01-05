@@ -6,7 +6,7 @@ Most of you have heard of TED or watched the talks online, but do you know about
 
 BIL emerged from a community of people who aspire to change the world for the better- everyone is on equal standing and we meet to share ideas, problems that need solving, and discoveries we are excited about with a quite diverse national and international crowd. Our attendees are our speakers and our speakers are our attendees and in true unconference style, attendees are responsible for shaping the conference itself through their participation.
 
-## WHAT DOES BIL STAND FOR?
+## What does BIL stand for?
 
 BIL doesn’t necessarily stand for anything.
 What’s your definition?
