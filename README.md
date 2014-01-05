@@ -2,5 +2,5 @@
 
 ## Sections
 
-* [BIL Support Foundation](/BIL Support Foundation/about.md)
-* [Hosting a BIL](/Hosting a BIL/Apply.md)
+* [BIL Support Foundation](/BIL Support Foundation/)
+* [Hosting a BIL](/Hosting a BIL/)
