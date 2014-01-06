@@ -8,17 +8,23 @@ Please go to [http://bilconference.com/apply_to_host](http://bilconference.com/a
 
 ## Select a Venue
 
-info about venue selection
+Venue selection should be your very first endeavour in hosting your own event.  Finding an affordable venue that will hold your estimated number of people can challenging, but its not impossible
 
 ## Money
 
 ### How much should we charge?
 
-Honestly.  You shouldn't charge anything unless you absolutely have to charge attendance to cover costs you cannot find in sponsorship or grants.  BIL was started with the mindset that quality talks and education shouldn't have to come at a cost, but sometimes we have to cover our costs in various ways.
+Honestly.  You shouldn't charge anything unless you absolutely have to charge attendance to cover costs you cannot find with sponsorship or grants.  BIL was started with the mindset that quality talks and education shouldn't have to come at a cost, but sometimes we have to cover our costs in various ways.
 
 BIL attempts to be a donation run event, with suggested donations being taken at the door, or online, that you calculate based on the cost of your event.  At our flagship event we even hold an auction at the closing of the talks.  
 
 The goal here is not to make a profit, but to cover your costs.
+
+### Ways to make money
+- Sponsorship (Direct or Fund matching)
+- Attendee Donations
+- Auction
+- Crowdfunding Campaigns
 
 ### Giving Back
 
